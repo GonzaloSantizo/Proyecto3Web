@@ -9,7 +9,7 @@ function Type() {
           "UVG Student",
           "Computer science degree",
           "Web developer",
-          "Front and backend",
+          "Full Stack developer",
         ],
         autoStart: true,
         loop: true,
