@@ -44,8 +44,8 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Project 2"
-              description="Second project for web development this is a simple website to help find information about different hospitals."
+              title="Lab 9 calculator"
+              description="Created a calculator to be used on the web."
               ghLink="https://github.com/GonzaloSantizo"
               demoLink="https://github.com/GonzaloSantizo"              
             />
